@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "ACME"
+    },
+    {
+      "id": 2,
+      "name": "Next.js"
+    }
+  ]
+}

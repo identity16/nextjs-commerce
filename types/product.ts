@@ -1,7 +1,7 @@
 import { Category } from './category';
 import { Designer } from './designer';
 
-export type Size = 'XS' | 'S' | 'M' | 'L' | 'XL';
+export type Size = 'XXS' | 'XS' | 'S' | 'M' | 'L' | 'XL' | 'XXL';
 
 export interface Product {
   id: number;
